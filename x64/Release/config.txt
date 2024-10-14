@@ -1,0 +1,3 @@
+[WMsgInterceptor]
+MusicCode=1004578
+MusicVolume=35

@@ -1,0 +1,10 @@
+﻿D:\ProgramData\Microsoft\VisualStudio\2022\EP\MSBuild\Current\Imports\Microsoft.Common.props\ImportBefore\Microsoft.NuGet.ImportBefore.props.new(16,3): warning MSB4011: 无法再次导入“D:\ProgramData\Microsoft\VisualStudio\2022\EP\MSBuild\Microsoft\NuGet\17.0\Microsoft.NuGet.props”。可能已在“D:\ProgramData\Microsoft\VisualStudio\2022\EP\MSBuild\Current\Imports\Microsoft.Common.props\ImportBefore\Microsoft.NuGet.ImportBefore.props (16,3)”处导入过它。这很可能是生成创作错误。将忽略此后续导入。[I:\CTHAdas\WinlogonMessageFilter\WinlogonMessageFilter.vcxproj]
+D:\ProgramData\Microsoft\VisualStudio\2022\EP\MSBuild\Current\Microsoft.Common.targets\ImportAfter\Microsoft.DesktopBridge.ImportAfter.targets.new(17,3): warning MSB4011: 无法再次导入“D:\ProgramData\Microsoft\VisualStudio\2022\EP\MSBuild\Microsoft\DesktopBridge\Microsoft.DesktopBridge.Common.targets”。可能已在“D:\ProgramData\Microsoft\VisualStudio\2022\EP\MSBuild\Current\Microsoft.Common.targets\ImportAfter\Microsoft.DesktopBridge.ImportAfter.targets (17,3)”处导入过它。这很可能是生成创作错误。将忽略此后续导入。[I:\CTHAdas\WinlogonMessageFilter\WinlogonMessageFilter.vcxproj]
+D:\ProgramData\Microsoft\VisualStudio\2022\EP\MSBuild\Current\Microsoft.Common.targets\ImportAfter\Microsoft.NuGet.ImportAfter.targets.new(16,3): warning MSB4011: 无法再次导入“D:\ProgramData\Microsoft\VisualStudio\2022\EP\MSBuild\Microsoft\NuGet\17.0\Microsoft.NuGet.targets”。可能已在“D:\ProgramData\Microsoft\VisualStudio\2022\EP\MSBuild\Current\Microsoft.Common.targets\ImportAfter\Microsoft.NuGet.ImportAfter.targets (16,3)”处导入过它。这很可能是生成创作错误。将忽略此后续导入。[I:\CTHAdas\WinlogonMessageFilter\WinlogonMessageFilter.vcxproj]
+  WinlogonMessageFilter.cpp
+  正在生成代码
+  2 of 100 functions ( 2.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  WinlogonMessageFilter.vcxproj -> I:\CTHAdas\WinlogonMessageFilter\x64\Release\WinlogonMessageFilter.exe
