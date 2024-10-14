@@ -205,7 +205,7 @@ CSDN:https://blog.csdn.net/qq_59075481
 
 
 - [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-- [Choose an Open Source License](https://choosealicense.com)
+- [MIT License](https://opensource.org/licenses/MIT)
 - [GitHub Pages](https://pages.github.com)
 - [Animate.css](https://daneden.github.io/animate.css)
 
