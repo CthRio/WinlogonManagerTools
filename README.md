@@ -28,7 +28,7 @@ WinlogonManagerTools 是通过 HOOK 或 HotPatch 技术拦截 Winlogon 进程事
 </p>
 
 
- 本篇 README.md 面向开发者
+ 本篇 README.md 面向开发者，目前项目仍然处于开发中，此项目仅供演示使用。
 
 ## 目录
 
